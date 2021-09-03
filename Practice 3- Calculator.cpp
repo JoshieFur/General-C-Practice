@@ -1,6 +1,6 @@
 // Practice 3- Calculator
 // Josh T
-// Version 1.0.0 uploaded to github on 9-1-21
+// Version 1.1.0 uploaded to github on 9-3-21
 
 #include <iostream>
 
